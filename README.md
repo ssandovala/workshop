@@ -1,2 +1,6 @@
-# workshop
-This is a repository created at the data carpentries workshop on 10 May 2023
+# Avocado Recipes
+A collection of my avocado recipes
+
+* [Smoothie](avocado_smoothie.md)
+* [Salad](avocado_tomato_salad.md)
+* [Guacamole](guacamole.md)
